@@ -1,1 +1,1 @@
-# hawq-cb-recipe
+# hawq2-beta-sandbox
